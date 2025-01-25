@@ -8,13 +8,11 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 # DkUWorks Organization Website
-
 Welcome to the **DkUWorks Organization Website** repository! This is the official website for the [DkUWorks](https://github.com/DkUWorks) organization.
 
 ---
 
 ## Purpose
-
 This project is intended to showcase our organization's website source code. It's built with HTML, CSS, and JavaScript, and is fully open-source under the [CC BY-NC License](LICENSE).
 
 ---
@@ -24,7 +22,6 @@ This project is intended to showcase our organization's website source code. It'
 
 
 ## Features
-
 - **Responsive Design**: The website adapts to different screen sizes (desktop, tablet, mobile).
 - **Interactive Sections**: Includes interactive elements for better user experience.
 - **Modern UI**: Clean and minimal design.
@@ -32,12 +29,10 @@ This project is intended to showcase our organization's website source code. It'
 ---
 
 ## Authors
-
 - [@dku-da-cpu](https://www.github.com/dku-da-cpu)
 
 ---
 
 ## Contact
-
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/juaPNzKPyr)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/diku.py)
