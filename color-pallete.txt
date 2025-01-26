@@ -1,0 +1,4 @@
+Black -> #040404
+Blue Ribbon -> #0443F2
+Malibu -> #53CBFB
+Alto -> #CFCFCF

@@ -1,6 +1,9 @@
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: 'Courier New', Courier, monospace;
+@import "tailwindcss";
+
+/*custom colors*/
+@theme {
+    --color-blaack: #040404;
+    --color-blueribbon: #0443F2;
+    --color-malibu: #53CBFB;
+    --color-alto: #CFCFCF;
 }

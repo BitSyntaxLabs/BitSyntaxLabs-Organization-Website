@@ -3,11 +3,101 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="./css/main.css">
-    <link rel="shortcut icon" href="./images/IMG_20250126_005503.jpg" type="image/x-icon">
+    <link rel="stylesheet" href="./css/main-output.css">
+    <link rel="shortcut icon" href="./images/IMG_20250126_005503-removebg-preview.png" type="image/x-icon">
     <title>DkU Works</title>
 </head>
-<body>
-    <p>Hi, Development in progess...</p>
+<body class="bg-white">
+    <!-- Header -->
+    <header class="bg-malibu/50">
+        <nav class="bg-malibu flex justify-between items-center py-4 px-8 backdrop-blur-md w-full z-10">
+            <div class="flex items-center">
+                <img src="./images/IMG_20250126_005503-removebg-preview.png" alt="DkU Works" class="h-12 w-12">
+                <h1 class="text-2xl font-bold ml-2 text-blueribbon cursor-pointer transition-all duration-300 ease-in-out hover:scale-110 group">
+                    DkU 
+                    <span class="text-blueribbon/50 group-hover:text-blueribbon transition-all duration-300 ease-in-out">
+                      Works
+                    </span>
+                </h1>
+            </div>
+            <ul class="flex text-blueribbon font-semibold">
+                <li><a href="index.html" class="px-4 hover:underline underline-offset-8 decoration-2">Home</a></li>
+                <li><a href="./html/about.html" class="px-4 hover:underline underline-offset-8 decoration-2">About</a></li>
+                <li><a href="./html/services.html" class="px-4 hover:underline underline-offset-8 decoration-2">Services</a></li>
+                <li><a href="./html/contact.html" class="px-4 hover:underline underline-offset-8 decoration-2">Contact</a></li>
+                <li><a href="./html/privacy-policy.html" class="px-4 hover:underline underline-offset-8 decoration-2">Privacy Policy</a></li>
+            </ul>
+            <!-- Mobile Menu Button -->
+            <button class="block md:hidden text-gray-800">
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16m-7 6h7" />
+                </svg>
+            </button>
+        </nav>
+        <!--Slogan-->
+        <div class="container mx-auto py-16 px-8">
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+                <div class="flex flex-col justify-center items-center">
+                    <h2 class="text-4xl font-bold text-blueribbon">Welcome to DkU Works</h2>
+                    <p class="text-lg text-gray-800 mt-4">We are a team of professionals who are dedicated to providing you with the best services in the industry. Our goal is to help you achieve your goals and make your dreams a reality.</p>
+                    <a href="services.html" class="bg-blueribbon text-white px-8 py-2 mt-4 rounded-full hover:bg-malibu/100 transition-all duration-300 ease-in-out">Our Services</a>
+                </div>
+                <div class="flex justify-center items-center">
+                    <img src="./images/IMG_20250126_005503-removebg-preview.png" alt="DkU Works" class="h-96 w-96">
+                </div>
+            </div>
+        </div>
+    </header>
+    <!-- Main -->
+    <main class="mt-16">
+        <section class="bg-white pt-2 pb-18 px-8">
+            <div class="container mx-auto">
+                <h2 class="text-4xl font-bold text-blueribbon text-center">Our Services</h2>
+                <p class="text-lg text-gray-800 text-center mt-4">We offer a wide range of services to help you achieve your goals and make your dreams a reality. Our team of professionals is dedicated to providing you with the best services in the industry.</p>
+                <div class="grid grid-cols-1 md:grid-cols-3 gap-8 mt-8">
+                    <div class="bg-malibu/50 p-4 rounded-lg">
+                        <h3 class="text-2xl font-bold text-blueribbon">Web Development</h3>
+                        <p class="text-gray-800 mt-4">We offer web development services to help you create a professional website that will attract customers and increase your online presence.</p>
+                    </div>
+                    <div class="bg-malibu/50 p-4 rounded-lg">
+                        <h3 class="text-2xl font-bold text-blueribbon">Graphic Design</h3>
+                        <p class="text-gray-800 mt-4">We offer graphic design services to help you create eye-catching designs that will make your brand stand out from the competition.</p>
+                    </div>
+                    <div class="bg-malibu/50 p-4 rounded-lg">
+                        <h3 class="text-2xl font-bold text-blueribbon">Digital Marketing</h3>
+                        <p class="text-gray-800 mt-4">We offer digital marketing services to help you reach your target audience and increase your online visibility.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!--Contact-->
+        <section class="bg-malibu/50 pt-16 pb-4 px-8">
+            <div class="container mx-auto">
+                <h2 class="text-4xl font-bold text-blueribbon text-center">Contact Us</h2>
+                <p class="text-lg text-gray-800 text-center mt-4">If you have any questions or would like to learn more about our services, please feel free to contact us. We are here to help you achieve your goals and make your dreams a reality.</p>
+                <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mt-8">
+                    <div class="bg-white p-4 rounded-lg">
+                        <h3 class="text-2xl font-bold text-blueribbon">Email</h3>
+                        <p class="text-gray-800 mt-4">
+                            <a href="mailto:jesuschetia.co@gmail.com" class="text-blueribbon hover:underline underline-offset-8 decoration-2">jesuschetia.co@gmail.com</a>
+                        </p>
+                    </div>
+                    <div class="bg-white p-4 rounded-lg">
+                        <h3 class="text-2xl font-bold text-blueribbon">Phone</h3>
+                        <p class="text-gray-800 mt-4">
+                            <a href="tel:+123456789" class="text-blueribbon hover:underline underline-offset-8 decoration-2">+123456789</a>
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+    <!-- Footer -->
+    <footer class="bg-malibu/50 py-8 px-8">
+        <div class="container mx-auto">
+            <p class="text-center text-blueribbon">© 2025 DkU Works. All rights reserved.</p>
+        </div>
+    </footer>
+    <script src="./js/index.js"></script>
 </body>
 </html>
