@@ -1,9 +1,10 @@
 @import "tailwindcss";
 
-/*custom colors*/
+/*custom css*/
 @theme {
     --color-blaack: #040404;
     --color-blueribbon: #0443F2;
     --color-malibu: #53CBFB;
     --color-alto: #CFCFCF;
+    --color-logoblue: #0D3A7B;
 }
