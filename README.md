@@ -13,7 +13,7 @@ Welcome to the **DkUWorks Organization Website** repository! This is the officia
 ---
 
 ## Purpose
-This project is intended to showcase our organization's website source code. It's built with HTML, CSS, and JavaScript, and is fully open-source under the [CC BY-NC License](LICENSE).
+This project is intended to showcase our organization's website source code. It's built with HTML, TailwindCSS, and JavaScript, and is fully open-source under the [CC BY-NC License](LICENSE).
 
 ---
 
