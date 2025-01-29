@@ -7,8 +7,8 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
-# DkUWorks Organization Website
-Welcome to the **DkUWorks Organization Website** repository! This is the official website for the [DkUWorks](https://github.com/DkUWorks) organization.
+# BitSyntax Labs Organization Website
+Welcome to the **BitSyntax Labs Organization Website** repository! This is the official website for the [BitSyntax Labs](https://github.com/BitSyntaxLabs) organization.
 
 ---
 
@@ -35,4 +35,4 @@ This project is intended to showcase our organization's website source code. It'
 
 ## Contact
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/juaPNzKPyr)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/diku.py)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/bitsyntax.labs)
